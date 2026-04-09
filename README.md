@@ -10,7 +10,7 @@ I'm lazy... but that's why I love building tools to make life easier! My passion
 ### 🌐 Let's Connect!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thatphongsaikham)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/thatphongsaikham)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thatphongsaikham/)
 ---
 
 ## 🛠️ Tech Stack
